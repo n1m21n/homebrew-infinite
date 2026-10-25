@@ -1,5 +1,9 @@
-# Homebrew tap for Infinite
+# Moved
 
-    brew install --cask n1m21n/infinite/infinite
+This tap is retired. Install Infinite with:
 
-Infinite, by Naman Soni (n1m21n), https://infinitedevices.org
+```
+brew install --cask n1m21n/tap/infinite
+```
+
+See https://github.com/n1m21n/homebrew-tap
