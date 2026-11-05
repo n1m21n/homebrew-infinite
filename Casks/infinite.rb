@@ -1,8 +1,9 @@
 cask "infinite" do
-  version "0.6.0"
-  sha256 "745f2a24fe3eb6340fdf8bd3eb7ba892d4be2205358366b72fd2d74db0a16aa9"
+  version "1.1.0"
+  sha256 "613c165b748f6710a7e127a0e36bc0ade28eaf416c5d2c8146d50d5f04c080a2"
 
-  url "https://github.com/n1m21n/Infinite/releases/download/v#{version}/Infinite.dmg"
+  url "https://github.com/n1m21n/Infinite/releases/download/v#{version}/Infinite.dmg",
+      verified: "github.com/n1m21n/Infinite/"
   name "Infinite"
   desc "Real-time modular audiovisual workstation for visuals, music and code"
   homepage "https://infinitedevices.org/"
